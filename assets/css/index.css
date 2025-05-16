@@ -1,0 +1,45 @@
+/* ==== Estilo general ==== */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #faf8f8;
+}
+
+/* ==== Navbar ==== */
+.navbar-nav .nav-link:hover {
+  color: #00245a;
+}
+
+/* ==== Header ==== */
+header {
+  background-color: #024bb8;
+}
+
+header h1 {
+  font-weight: bold !important;
+}
+
+/* ==== Artículos ==== */
+article {
+  margin: 30px auto;
+}
+
+/* ==== Títulos y subtítulos ==== */
+article h2,
+article h3 {
+  color: #3181f8;
+  font-weight: bold;
+}
+
+/* ==== Párrafos ==== */
+article p {
+  color: #292121;
+  font-size: 1rem;
+}
+
+/* ==== Footer ==== */
+footer {
+  background-color: #212529;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: auto;
+}

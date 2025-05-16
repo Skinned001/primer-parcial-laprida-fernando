@@ -1,0 +1,59 @@
+/* ==== Estilo general ==== */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* ==== Navbar ==== */
+.navbar-nav .nav-link:hover {
+  color: #ffc75f;
+}
+
+/* ==== Header ==== */
+header {
+  background-color: #bb7a02;
+}
+
+header h1 {
+  font-weight: bold !important;
+}
+
+/* ==== Artículos ==== */
+article {
+  margin: 30px auto;
+}
+
+/* ==== Títulos y subtítulos ==== */
+article h2,
+article h3 {
+  color: #442c00;
+  font-weight: bold;
+}
+
+/* ==== Labels ==== */
+article label {
+  color: #292421;
+  font-size: 1rem;
+}
+
+/* ==== Formularios ==== */
+input.form-control {
+  border-radius: 8px;
+  padding: 10px;
+  border: 1px solid #dacecf;
+}
+
+/* ==== Botones ==== */
+.btn {
+  border-radius: 20px;
+  padding: 10px 25px;
+  font-weight: bold;
+}
+
+/* ==== Footer ==== */
+footer {
+  background-color: #212529;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: auto;
+}
