@@ -6,7 +6,7 @@ body {
 
 /* ==== Navbar ==== */
 .navbar-nav .nav-link:hover {
-  color: #ffc75f;
+  color: #bb7a02;
 }
 
 /* ==== Header ==== */
@@ -26,7 +26,7 @@ article {
 /* ==== Títulos y subtítulos ==== */
 article h2,
 article h3 {
-  color: #442c00;
+  color: #bb7a02;
   font-weight: bold;
 }
 
