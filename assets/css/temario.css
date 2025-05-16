@@ -29,7 +29,10 @@ article h3 {
   color: #7400a1;
   font-weight: bold;
 }
-
+h2{
+  color: #7400a1;
+  font-weight: bold;
+}
 /* ==== Párrafos ==== */
 article p {
   color: #49105f;
